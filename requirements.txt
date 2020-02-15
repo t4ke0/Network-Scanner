@@ -1,0 +1,7 @@
+colorama==0.4.3
+netaddr==0.7.19
+netifaces==0.10.9
+pygame==1.9.6
+scapy==2.4.3
+terminaltables==3.1.0
+tqdm==4.42.1
